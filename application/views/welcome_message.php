@@ -26,15 +26,8 @@
 
 
 		<div class="links">
+			<a href="https://forms.gle/2fqFvKENDYjSwLNi9" target="_blank" class="link-item">PENDAFTARAN SISWA JOB & FAIR EDU FAIR</a>
 
-
-
-			<a href="https://drive.google.com/file/d/1Gg-cNdtvZMLTwuMrPd_rWV2gszhCWfZj/view?usp=sharing" target="_blank" class="link-item">PROPOSAL JOB FAIR & EDU FAIR - PERUSAHAAN</a>
-			<a href="https://drive.google.com/file/d/1sk3IZkMEdr6aXs_u7GiHCEVyepLsTxvP/view?usp=sharing" target="_blank" class="link-item">PROPOSAL JOB FAIR & EDU FAIR - UNIVERSITAS</a>
-			<a href="https://drive.google.com/file/d/1XpQW0mBGE2PwOYTT7YI97GtP3CB8Rf6X/view?usp=sharing" target="_blank"
-				class="link-item">FORMULIR KESEDIAAN - PERUSAHAAN</a>
-			<a href="https://drive.google.com/file/d/120kBhkNxP5x7xkonEwcq5IuCEFbJANf5/view?usp=drive_link" target="_blank"
-				class="link-item">FORMULIR KESEDIAAN - UNIVERSITAS</a>
 			<a href="https://www.instagram.com/smkth.jakbar/?hl=id" target="_blank" class="link-item">INSTAGRAM</a>
 			<a href="https://www.tiktok.com/@bkk.smk.tunas.har" target="_blank" class="link-item">TIKTOK</a>
 		</div>
@@ -44,7 +37,7 @@
 		</footer>
 	</div>
 
-	<!-- <script src="script.js"></script> -->
+
 </body>
 
 </html>
