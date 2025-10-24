@@ -27,7 +27,7 @@
 
 		<div class="links">
 			<a href="https://forms.gle/2fqFvKENDYjSwLNi9" target="_blank" class="link-item">PENDAFTARAN SISWA JOB & FAIR EDU FAIR</a>
-			<a href="https://bkk.smkth-jakbar.com/" target="_blank" class="link-item">WEBSITE BKK SMK TUNAS HARATPAN JAKARTA BARAT</a>
+			<a href="https://bkk.smkth-jakbar.com/" target="_blank" class="link-item">WEBSITE BKK SMK TUNAS HARAPAN JAKARTA BARAT</a>
 			<a href="https://www.instagram.com/smkth.jakbar/?hl=id" target="_blank" class="link-item">INSTAGRAM</a>
 			<a href="https://www.tiktok.com/@bkk.smk.tunas.har" target="_blank" class="link-item">TIKTOK</a>
 		</div>
