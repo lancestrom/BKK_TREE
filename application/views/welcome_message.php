@@ -14,7 +14,7 @@
 	<link rel="stylesheet" href="<?= base_url() ?>assets/styles.css">
 </head>
 
-<body>
+<body style="background-image: url(https://cdn.vectorstock.com/i/500p/19/48/abstract-blurred-gradient-background-vector-25991948.jpg);background-size: cover;">
 	<div class="container">
 		<header>
 			<div class="profile">
